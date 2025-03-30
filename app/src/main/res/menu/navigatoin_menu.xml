@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/glav"
+        />
+
+    <item
+        android:id="@+id/movies"
+        android:title="@string/movie"/>
+
+    <item
+        android:id="@+id/teatrs"
+        android:title="@string/teatrs"/>
+
+    <item
+        android:id="@+id/my_tickets"
+        android:title="@string/my_tickets"/>
+
+    <item
+        android:id="@+id/account"
+        android:title="@string/account"/>
+
+    <item
+        android:id="@+id/statistika"
+        android:title="@string/ststic"/>
+
+    <item
+        android:id="@+id/nas"
+        android:title="@string/nas"/>
+
+</menu>
